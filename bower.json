@@ -1,0 +1,11 @@
+{
+  "name": "hackturabo-material",
+  "description": "HackTurabo's Website Materialized",
+  "main": "index.js",
+  "authors": [
+    "Fabian"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/favovelez37/web-server-2016",
+  "private": true
+}
